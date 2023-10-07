@@ -1,7 +1,7 @@
 import openai 
 from ocr_conversion.image_to_text_detection import *
 
-openai.api_key = ''
+openai.api_key = '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'
 
 model_engine = 'gpt-3.5-turbo'
 
